@@ -4,4 +4,5 @@ I Added there Full-Menu setup with Main Menu and Settings, So basicly you can ru
 
 To Run:
 -git clone git@github.com:MKazmierczak02/Ping-pong-game.git
+
 -open main.py and run it
